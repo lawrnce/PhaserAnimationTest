@@ -1,14 +1,6 @@
-# Phaser 3 Webpack Project Template
-
-A Phaser 3 Project Template
-
-### Requirements
-
-We need [Node.js](https://nodejs.org) to install and run scripts.
+# Phaser Animation Test
 
 ## Install and run
-
-Run next commands in your terminal:
 
 | Command | Description |
 |---------|-------------|
